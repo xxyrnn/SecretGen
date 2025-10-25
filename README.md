@@ -6,17 +6,17 @@ A short Python script to generate random, cryptographically secure passwords and
 
 ## Download
 
-Open a terminal emulator and clone the repository by running
+Open a terminal emulator and clone the repository:
 ```bash
 git clone https://github.com/xxyrnn/SecretGen.git
 ```
 
-Change folder to the newly cloned repository
+Change folder to the newly cloned repository:
 ```bash
 cd SecretGen
 ```
 
-Finally run the script
+Finally run the script:
 ```bash
 python main.py <PASS|PIN> <length> # Windows
 python3 main.py <PASS|PIN> <length> # Linux/MacOS
