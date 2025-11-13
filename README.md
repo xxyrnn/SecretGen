@@ -8,12 +8,12 @@ A Python script to generate random, cryptographically secure passwords and PIN c
 
 Open a terminal emulator and clone the repository:
 ```bash
-git clone https://github.com/xxyrnn/SecretGen.git
+git clone https://github.com/xxyrnn/secret-gen.git
 ```
 
 Change folder to the newly cloned repository:
 ```bash
-cd SecretGen
+cd secret-gen
 ```
 
 Finally run the script:
